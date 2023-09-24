@@ -32,5 +32,4 @@ Then you can view the site on your local server.
 The app was made and deployed with streamlit and streamlit cloud. 
 Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
 
-The live link can be seen here:
-https://share.streamlit.io/nneji123/deep-learning-object-recognition-with-resnet50/main
+
